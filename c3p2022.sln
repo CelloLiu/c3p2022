@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32516.85
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{54A90642-561A-4BB1-A94E-469ADEE60C69}") = "c3p2022-client", "c3p2022-client\c3p2022-client.esproj", "{63F33A60-8436-4313-9EBD-E77B46496BD6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "c3p2022-api", "c3p2022-api\c3p2022-api.csproj", "{568B9E7D-B264-4D7A-8426-C4587E3F6049}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{63F33A60-8436-4313-9EBD-E77B46496BD6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{63F33A60-8436-4313-9EBD-E77B46496BD6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{63F33A60-8436-4313-9EBD-E77B46496BD6}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{63F33A60-8436-4313-9EBD-E77B46496BD6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{63F33A60-8436-4313-9EBD-E77B46496BD6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{63F33A60-8436-4313-9EBD-E77B46496BD6}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{568B9E7D-B264-4D7A-8426-C4587E3F6049}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{568B9E7D-B264-4D7A-8426-C4587E3F6049}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{568B9E7D-B264-4D7A-8426-C4587E3F6049}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{568B9E7D-B264-4D7A-8426-C4587E3F6049}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {569CCDED-1714-4EA0-A791-2806C504FF39}
+	EndGlobalSection
+EndGlobal
